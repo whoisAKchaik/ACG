@@ -1,0 +1,8 @@
+FROM: FIELD AGENT ALICE
+TO: FIELD AGENT BOB
+RE: Meeting
+DATE: 2001-1-1
+
+Meet me today at the docks at 2300.
+
+# Credit: Practical Cryptography in Python Learning Correct Cryptography by Example
